@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="gemini-svg.svg" alt="Arduino Serial Capture Logo" width="400"/>
+</div>
 # arduino-serial-capture
 **Date:** 2026-03-13
 **Platform:** Linux 6.8.12, Debian/Ubuntu
