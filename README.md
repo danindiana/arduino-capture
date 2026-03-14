@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="gemini-svg.svg" alt="Arduino Serial Capture Logo" width="400"/>
+  <img src="https://github.com/danindiana/arduino-capture/blob/main/assets/gemini-svg.svg" alt="Arduino Serial Capture Logo" width="400"/>
 </div>
 # arduino-serial-capture
 **Date:** 2026-03-13
